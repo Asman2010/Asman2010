@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Asman2010/Asman2010/assets/142419243/1d229fb0-2eaf-4372-8a45-95a3e32d8b71" width="900" alt="Banner" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Asman</h1>
 <h3 align="center">A dedicated Python, ML, and DL enthusiast actively learning and passionate about AI development, hailing from India.</h3>
 

@@ -1,31 +1,65 @@
 <h1 align="center">Hi 👋, I'm Asman</h1>
-<h3 align="center">A dedicated Python, ML, and DL enthusiast actively learning and passionate about AI development, hailing from India.</h3>
+<h3 align="center">A passionate Python, Machine Learning, and Deep Learning enthusiast from India 🚀 | Co-Founder of Studexa 🎓</h3>
 
-- 🌱 I’m currently learning **Javascript**
+---
 
-- 📫 How to reach me: **[asmanabu60@gmail.com](mailto:asmanabu60@gmail.com)**
+### 👨‍💻 About Me
+- 🎓 Co-founder of **[Studexa](https://www.studexa.com)** — an AI-powered educational platform to make studying easier and smarter.
+- 🧠 Currently learning **JavaScript** for full-stack development.
+- 💡 Always exploring the latest in **AI/ML/DL**, especially computer vision and NLP projects.
+- 🎥 I love creating helpful videos on **AI**, **Python**, and tech on my **[YouTube Channel](https://www.youtube.com/channel/ucrvkqlxuim-akyxlatnqmng)**!
+- ✨ Open to collaborations and exciting projects!
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 📫 How to reach me:
+[![Gmail](https://img.shields.io/badge/Gmail-asmanabu60@gmail.com-red?logo=gmail&logoColor=white)](mailto:asmanabu60@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Asman-red?logo=youtube&logoColor=white)](https://www.youtube.com/channel/ucrvkqlxuim-akyxlatnqmng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asman-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com)
+---
+
+### 🛠️ Languages and Tools:
 <p align="left">
-  <a href="https://www.youtube.com/channel/ucrvkqlxuim-akyxlatnqmng" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
+---
+
+### 🚀 Currently Learning:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Web Development](https://img.shields.io/badge/-Web%20Development-orange?style=flat-square&logo=html5)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=flat-square&logo=pytorch)
+
+---
+
+### 🏆 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asman2010&show_icons=true&theme=radical&hide=prs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asman2010&theme=radical"/>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  [Asman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asman2010)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asman2010&layout=compact&theme=radical"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Asman2010&theme=radical&no-frame=true&row=2&column=3"/>
+</p>
+
+---
+
+### 📊 GitHub Activity Graph:
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asman2010&theme=tokyo-night&bg_color=0d1117&color=9fef00&line=9fef00&point=1aff00"/>
+</p>
+
+---
+
+<p align="center">Let's make learning smarter and coding fun together! 🚀</p>

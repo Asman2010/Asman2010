@@ -27,5 +27,5 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  [![Asman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asman2010)](https://github.com/anuraghazra/github-readme-stats)
+  ![Asman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asman2010)](https://github.com/anuraghazra/github-readme-stats)
 </p>

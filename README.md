@@ -14,8 +14,7 @@
 
 ### 📫 How to reach me:
 [![Gmail](https://img.shields.io/badge/Gmail-asmanabu60@gmail.com-red?logo=gmail&logoColor=white)](mailto:asmanabu60@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Asman-red?logo=youtube&logoColor=white)](https://www.youtube.com/channel/ucrvkqlxuim-akyxlatnqmng)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asman-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com)
+
 ---
 
 ### 🛠️ Languages and Tools:
@@ -54,6 +53,7 @@
 </p>
 
 ---
+
 
 ### 📊 GitHub Activity Graph:
 <p align="center">

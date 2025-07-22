@@ -37,29 +37,4 @@
 
 ---
 
-### 🏆 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asman2010&show_icons=true&theme=radical&hide=prs"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asman2010&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asman2010&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asman2010&theme=radical&no-frame=true&row=2&column=3"/>
-</p>
-
----
-
-
-### 📊 GitHub Activity Graph:
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asman2010&theme=tokyo-night&bg_color=0d1117&color=9fef00&line=9fef00&point=1aff00"/>
-</p>
-
----
-
 <p align="center">Let's make learning smarter and coding fun together! 🚀</p>

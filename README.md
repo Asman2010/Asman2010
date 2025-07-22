@@ -7,7 +7,6 @@
 - 🎓 Co-founder of **[Studexa](https://www.studexa.com)** — an AI-powered educational platform to make studying easier and smarter.
 - 🧠 Currently learning **JavaScript** for full-stack development.
 - 💡 Always exploring the latest in **AI/ML/DL**, especially computer vision and NLP projects.
-- 🎥 I love creating helpful videos on **AI**, **Python**, and tech on my **[YouTube Channel](https://www.youtube.com/channel/ucrvkqlxuim-akyxlatnqmng)**!
 - ✨ Open to collaborations and exciting projects!
 
 ---
